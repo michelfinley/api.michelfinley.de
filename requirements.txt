@@ -1,0 +1,8 @@
+PyJWT~=2.8.0
+Simyan~=1.2.1
+SQLAlchemy~=2.0.31
+argon2-cffi~=23.1.0
+ctransformers~=0.2.27
+fastapi~=0.111.0
+pydantic~=2.7.4
+torch~=2.3.1+cu118  # pip install torch --extra-index-url https://download.pytorch.org/whl/cu118
